@@ -90,7 +90,7 @@ but useful for debugging and future features like alarm history.
 ## File Structure
 
 ```
-alarm_clock.py   → single file, all logic
+main.py   → single file, all logic
 alarms.json      → auto-created on first run (do not commit)
 README.md        → this file
 .gitignore       → excludes alarms.json and pycache
